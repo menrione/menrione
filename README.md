@@ -1,9 +1,7 @@
-## Hi there 👋
+## Olá eu sou Maria Enrione
 
-<!--
-**menrione/menrione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e desenvolvimento de Sistemas na Fatec/Sorocaba
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
